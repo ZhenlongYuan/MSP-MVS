@@ -1,6 +1,6 @@
 # MSP-MVS
 
-Zhenlong Yuan, Cong Liu, Fei Shen, Zhaoxin Li, Jingguo luo, Tianlu Mao and Zhaoqi Wang, [**MSP-MVS: Multi-Granularity Segmentation Prior Guided Multi-View Stereo**](https://arxiv.org/pdf/2407.19323), AAAI 2025
+Zhenlong Yuan, Cong Liu, Fei Shen, Zhaoxin Li, Jingguo luo, Tianlu Mao and Zhaoqi Wang, [**MSP-MVS: Multi-Granularity Segmentation Prior Guided Multi-View Stereo**](https://arxiv.org/pdf/2407.19323), AAAI 2025.
 ![](images/MSP-MVS-pipeline.png)
 
 ## About
