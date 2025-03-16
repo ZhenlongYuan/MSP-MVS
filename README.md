@@ -4,7 +4,7 @@ Zhenlong Yuan, Cong Liu, Fei Shen, Zhaoxin Li, Jingguo luo, Tianlu Mao and Zhaoq
 ![](images/MSP-MVS-pipeline.png)
 
 ## About
-MSP-MVS is the first method who combines the instance segmentation model **SAM** with multi-view stereo(**MVS**) algorithm to address limited receptive field of PatchMatch-based MVS.
+MSP-MVS aggregates multi-granularity SAM model **Semantic-SAM** with multi-view stereo(**MVS**) algorithm to address patch deformation instability of PatchMatch-based MVS.
 
 Our paper was accepted by **AAAI2025**!
 
